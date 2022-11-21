@@ -2,6 +2,11 @@ body{
     background-color: #CCCCCC;
 }
 
+#banner{
+    width: 100%;
+    height: fit-content;
+}
+
 p, h1 {
     text-align: center;
 }
