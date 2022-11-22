@@ -1,6 +1,3 @@
-body{
-    background-color: #CCCCCC;
-}
 
 .titulo-principal{
     padding-left: 20px;
@@ -12,7 +9,8 @@ body{
 }
 
 .principal{
-    background-color: #ffffff;
+    background-color: #000000;
+    color: #FFFFFF;
     padding: 30px;
     margin: 10px 0;
 }
