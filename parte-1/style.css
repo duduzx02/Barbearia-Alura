@@ -1,53 +1,100 @@
-
-.titulo-principal{
-    padding-left: 20px;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-#banner{
-    width: 100%;
-    height: fit-content;
+header {
+  background-color: #999999;
+  padding: 20px 0;
 }
 
-.principal{
-    background-color: #999999;
-    color: #FFFFFF;
-    padding: 30px;
-    margin: 10px 0;
+.box {
+  position: relative;
+  width: 940px;
+  margin: 0 auto;
 }
 
-.titulo-centralizado{
-    text-align: center;
+nav {
+  position: absolute;
+  right: 0;
+  top: 125px;
 }
 
-
-p{
-    text-align: center;
+nav li {
+  display: inline;
+  margin-left: 15px;
 }
 
-#missao{
-    font-size: 20px;
+nav a {
+  text-transform: uppercase;
+  color: #000000;
+  font-weight: bold;
+  font-size: 1.5rem;
+  text-decoration: none;
 }
 
-p em strong{
-    color: #ff0000;
+nav a:hover {
+  color: gold;
+  text-decoration: underline;
 }
 
-ul{
-    display: inline-block;
-    vertical-align: top;
-    width: 20%;
-    margin-right: 15%;
+#banner {
+  width: 100%;
+  height: fit-content;
 }
 
-.item{
-    font-style: italic;
+.principal {
+  background-color: #222222;
+  color: #ffffff;
+  padding: 30px;
+  margin: 10px 0;
 }
 
-.beneficios{
-    background-color: #FFFFFF;
-    padding: 20px ;
+.titulo-centralizado {
+  text-align: center;
 }
 
-.imgbeneficios{
-    width: 50%;
+#missao {
+  font-size: 20px;
+}
+
+p em strong {
+  color: #ff0000;
+}
+
+.itens {
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%;
+}
+
+.item {
+  font-style: italic;
+}
+
+.beneficios h3 {
+  margin-bottom: 35px;
+  font-size: 1.8rem;
+}
+
+.beneficios {
+  background-color: #ffffff;
+}
+
+.imgbeneficios {
+  width: 50%;
+}
+
+footer {
+  text-align: center;
+  background: url(bg.jpg);
+  padding: 40px 0;
+}
+
+.copyright {
+  color: #fff;
+  font-size: 13px;
+  margin: 20px 0 0;
 }
