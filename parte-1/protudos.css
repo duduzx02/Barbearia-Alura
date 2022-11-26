@@ -30,6 +30,11 @@ nav a {
 
 }
 
+nav a:hover{
+    color: gold;
+    text-decoration: underline;
+}
+
 .produtos{
     width: 940px;
     margin: 0 auto;
@@ -48,9 +53,22 @@ nav a {
     border-radius: 10px;
 }
 
+.produtos li:hover{
+    border-color: gold;
+}
+
+.produtos li:active{
+    border-color: chartreuse;
+}
+
 .produtos h2{
     font-size: 30px;
     font-weight: bold;
+}
+
+/* Para elementos específicos */
+.produtos li:hover h2{
+    font-size: 35px;
 }
 
 .produto-descricao{
