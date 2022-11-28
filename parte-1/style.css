@@ -137,6 +137,28 @@ form label, form legend {
 }
 
 .enviar:active{
-  background-color: yellow;
-  border: 1px solid green;
+  background-color: darkgoldenrod;
+  border: 1px solid gold;
+}
+
+#horario{
+  text-align: center;
+  padding: 15px;
+  font-weight: bold;
+  font-size: 1.5rem;
+
+}
+
+table{
+  margin: 20px 0 40px;
+}
+thead{
+  background-color: #444444;
+  color: white;
+  font-weight: bold;
+}
+
+td, th{
+  border: 1px solid #000000;
+  padding: 8px 15px;
 }
