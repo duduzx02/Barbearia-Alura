@@ -278,9 +278,25 @@ th {
   .imgbeneficios {
     width: 100%;
     padding: 12px 0;
+    box-shadow: none;
   }
 
   .video {
     text-align: center;
   }
+
+  .produtos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    
+  }
+
+  .produtos li{
+    width: 95%;
+    margin: 15px;
+  }
+
 }
