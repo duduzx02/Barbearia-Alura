@@ -1,7 +1,7 @@
-<h1 align="center"> CLONE DO GOOGLE KEEP COM JAVASCRIPT </h1>
+<h1 align="center"> BARBEARIA ALURA </h1>
 
 <p align="center">
-Projeto feito no Youtube no canal Matheus Battisti - Hora de Codar.
+Projeto feito na Formação da Alura HTML E CSS.
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ Projeto feito no Youtube no canal Matheus Battisti - Hora de Codar.
 <br>
 
 <p align="center">
-  <img alt="Calendário da copa" src=".github/devNotes.png" width="100%">
+  <img alt="Calendário da copa" src=".github/barbeariaAlura.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -25,14 +25,11 @@ Projeto feito no Youtube no canal Matheus Battisti - Hora de Codar.
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript - DOM
 - Git e Github
 
 ## 💻 Projeto
 
-Recriar as principais funcionalidades do software do Google, o Keep.
-
-É um sistema para armazenar informações importantes, e ter acesso a qualquer momento. 
+Uma página da web, tabalhando com posicionamento, listas, tabelas, navegação, formulários e CSS avançado.
 
 ## :memo: Licença
 
